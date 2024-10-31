@@ -109,7 +109,7 @@
                                 </div>-->
 <%
                                     String username = null;
-                                    Cookie[] cookies = request.getCookies();  // Correctly declare as Cookie array
+                                    Cookie[] cookies = request.getCookies(); 
 
                                     if (cookies != null) {
                                         for (Cookie cookie : cookies) {

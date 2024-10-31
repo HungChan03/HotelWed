@@ -3,7 +3,7 @@
     Created on : Oct 18, 2024, 12:50:16 AM
     Author     : Macbook
 --%>
-<%@ page import="jakarta.servlet.http.Cookie" %>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!<!-- ForEach -->
@@ -114,7 +114,7 @@
                                                                 </div>-->
                                 <%
                                     String username = null;
-                                    Cookie[] cookies = request.getCookies();  // Correctly declare as Cookie array
+                                    Cookie[] cookies = request.getCookies(); 
 
                                     if (cookies != null) {
                                         for (Cookie cookie : cookies) {

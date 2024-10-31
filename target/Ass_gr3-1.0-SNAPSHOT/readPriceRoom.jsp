@@ -42,7 +42,7 @@
                 let displayCookies = document.getElementById("display");
                 displayCookies.innerHTML = document.cookie;
             }
-
+            
             function deleteCookies() {
                 sessionStorage.clear();
                 let allCookies = document.cookie.split(';');

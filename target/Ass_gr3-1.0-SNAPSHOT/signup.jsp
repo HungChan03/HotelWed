@@ -21,24 +21,27 @@
         <form class="form_signup" action="signup" method="post">
             <h3>Sign up Here</h3>
 
-
+            <p class="text-danger alert"> ${messs}</p>
             <label for="fullname">Full name</label>
-            <input  name ="fullname" type="text" placeholder="fullname" id="fullname" required">
+            <input  name ="fullname" type="text" placeholder="Enter your fullname" id="fullname" required">
 
             <label for="address">Address</label>
-            <input name="address" type="text" placeholder="address" id="address" required>
+            <input name="address" type="text" placeholder="Enter your address" id="address" required>
 
             <label for="phone">Number phone</label>
-            <input name ="phone" type="text" placeholder="phone" id="phone" required>
+            <input name ="phone" type="text" placeholder="Enter your phone" id="phone" required>
 
             <label for="email">Email    </label>
-            <input  name ="email" type="text" placeholder="Email" id="email" required>
+            <input  name ="email" type="email" placeholder="Enter your email" id="email" required>
 
             <label for="password">Password</label>
-            <input name ="password" type="password" placeholder="Password" id="password" required>
+            <input name ="password" type="password" placeholder="Enter your password" id="password" required>
+            
+             <label for="re_password">Repeat Password</label>
+            <input name ="re_password" type="password" placeholder="Please repeat your passwrod" id="re_password" required>
 
             <label for="birthday">Enter Your Birthday(YYYY-MM-DD)</label>
-            <input name ="birthday" type="date" placeholder="Birthday" id="birthday" required>
+            <input name ="birthday" type="date" placeholder="Your birthday" id="birthday" required>
 
 
 
