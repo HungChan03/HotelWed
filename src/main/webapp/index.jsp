@@ -429,95 +429,95 @@
 
         <!-- Team Start -->
         <div class="container-xxl py-5">
-            <div class="container">
-                <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
-                    <h6 class="section-title text-center text-primary text-uppercase">Our Team</h6>
-                    <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Staffs</span></h1>
-                </div>
-                <div class="row g-4">
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="rounded shadow overflow-hidden">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/about_us/aboutHuy.jpg" alt="">
-                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                <div class="container">
+                    <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
+                        <h6 class="section-title text-center text-primary text-uppercase">Our Team</h6>
+                        <h1 class="mb-5">Explore Our <span class="text-primary text-uppercase">Staffs</span></h1>
+                    </div>
+                    <div class="row g-4">
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/about_us/aboutHuy.jpg" alt="">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100037327361860&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
+                                       
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/yuh_hhoang/profilecard/?igsh=dHlqNWhicDVzc25j"><i class="fab fa-instagram"></i></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Hoàng Huy</h5>
-                                <small>Designation</small>
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="fw-bold mb-0">Hoàng Huy</h5>
+                                    <small>Designation</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <div class="rounded shadow overflow-hidden">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/about_us/aboutTu.png" alt="">
-                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/about_us/aboutTu.png" alt="">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100047967561612"><i class="fab fa-facebook-f"></i></a>
+                                       
+                                        <a  target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/fsuan.0401/"><i class="fab fa-instagram"></i></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Thanh Tú</h5>
-                                <small>Designation</small>
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="fw-bold mb-0">Thanh Tú</h5>
+                                    <small>Designation</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <div class="rounded shadow overflow-hidden">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/about_us/aboutLinh.png" alt="">
-                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/about_us/aboutLinh.png" alt="">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100081948576421&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
+                                       
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/linhor33/profilecard/?igsh=dWtkZ2d0bGF3NHNm"><i class="fab fa-instagram"></i></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Mỹ Linh</h5>
-                                <small>Designation</small>
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="fw-bold mb-0">Mỹ Linh</h5>
+                                    <small>Designation</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <div class="rounded shadow overflow-hidden">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/about_us/aboutPhuc.jpg" alt="">
-                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/about_us/aboutPhuc.jpg" alt="">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100038927191598&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
+                                      
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/phuctruongcm2004?igsh=cG4wOTltYjVsZDhm"><i class="fab fa-instagram"></i></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Hoàng Phúc</h5>
-                                <small>Designation</small>
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="fw-bold mb-0">Hoàng Phúc</h5>
+                                    <small>Designation</small>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
-                        <div class="rounded shadow overflow-hidden">
-                            <div class="position-relative">
-                                <img class="img-fluid" src="img/about_us/aboutHung.jpg" alt="">
-                                <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                        <div class="col-lg-2 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                            <div class="rounded shadow overflow-hidden">
+                                <div class="position-relative">
+                                    <img class="img-fluid" src="img/about_us/aboutHung.jpg" alt="">
+                                    <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100033289996509"><i class="fab fa-facebook-f"></i></a>
+                                    
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/hunggomu15/"><i class="fab fa-instagram"></i></a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="text-center p-4 mt-3">
-                                <h5 class="fw-bold mb-0">Chấn Hưng</h5>
-                                <small>Designation</small>
+                                <div class="text-center p-4 mt-3">
+                                    <h5 class="fw-bold mb-0">Chấn Hưng</h5>
+                                    <small>Designation</small>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
         <!-- Team End -->
 
         <!-- Footer Start -->
