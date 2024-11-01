@@ -73,11 +73,11 @@
                             </div>
                             <div class="col-lg-5 px-5 text-end">
                                 <div class="d-inline-flex align-items-center py-2">
-                                    <a class="me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="me-3" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                    <a class="me-3" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="" href=""><i class="fab fa-youtube"></i></a>
+                                     <a class="me-3" href="https://www.facebook.com/hotel.wonderland.2024/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="me-3" href="https://x.com/NSawayu"><i class="fab fa-twitter" target="_blank"></i></a>
+                                    <a class="me-3"  target="_blank" href="https://www.linkedin.com/in/hotel-wonderland-832463336/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="me-3" href="https://www.instagram.com/hote.lwonderland/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a class="" href="https://www.youtube.com/@HotelWonderLand-k4p" target="_blank"><i class="fab fa-youtube"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -163,7 +163,7 @@
             <!-- Page Header End -->
 
 
-            <!-- Booking Start -->
+<!--             Booking Start 
             <div class="container-fluid booking pb-5 wow fadeIn" data-wow-delay="0.1s">
                 <div class="container">
                     <div class="bg-white shadow" style="padding: 35px;">
@@ -206,7 +206,7 @@
                     </div>
                 </div>
             </div>
-            <!-- Booking End -->
+             Booking End -->
 
 
             <!-- Team Start -->
@@ -222,9 +222,9 @@
                                 <div class="position-relative">
                                     <img class="img-fluid" src="img/about_us/aboutHuy.jpg" alt="">
                                     <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100037327361860&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
+                                       
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/yuh_hhoang/profilecard/?igsh=dHlqNWhicDVzc25j"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                                 <div class="text-center p-4 mt-3">
@@ -238,9 +238,9 @@
                                 <div class="position-relative">
                                     <img class="img-fluid" src="img/about_us/aboutTu.png" alt="">
                                     <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100047967561612"><i class="fab fa-facebook-f"></i></a>
+                                       
+                                        <a  target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/fsuan.0401/"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                                 <div class="text-center p-4 mt-3">
@@ -254,9 +254,9 @@
                                 <div class="position-relative">
                                     <img class="img-fluid" src="img/about_us/aboutLinh.png" alt="">
                                     <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100081948576421&mibextid=LQQJ4d"><i class="fab fa-facebook-f"></i></a>
+                                       
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/linhor33/profilecard/?igsh=dWtkZ2d0bGF3NHNm"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                                 <div class="text-center p-4 mt-3">
@@ -270,9 +270,9 @@
                                 <div class="position-relative">
                                     <img class="img-fluid" src="img/about_us/aboutPhuc.jpg" alt="">
                                     <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100038927191598&mibextid=ZbWKwL"><i class="fab fa-facebook-f"></i></a>
+                                      
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/phuctruongcm2004?igsh=cG4wOTltYjVsZDhm"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                                 <div class="text-center p-4 mt-3">
@@ -286,9 +286,9 @@
                                 <div class="position-relative">
                                     <img class="img-fluid" src="img/about_us/aboutHung.jpg" alt="">
                                     <div class="position-absolute start-50 top-100 translate-middle d-flex align-items-center">
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-facebook-f"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-twitter"></i></a>
-                                        <a class="btn btn-square btn-primary mx-1" href=""><i class="fab fa-instagram"></i></a>
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.facebook.com/profile.php?id=100033289996509"><i class="fab fa-facebook-f"></i></a>
+                                    
+                                        <a target="_blank" class="btn btn-square btn-primary mx-1" href="https://www.instagram.com/hunggomu15/"><i class="fab fa-instagram"></i></a>
                                     </div>
                                 </div>
                                 <div class="text-center p-4 mt-3">
@@ -311,10 +311,10 @@
                             <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+8496 405 7841</p>
                             <p class="mb-2"><i class="fa fa-envelope me-3"></i>hungnhcce180150@fpt.edu.vn</p>
                             <div class="d-flex pt-2">
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://x.com/NSawayu"><i class="fab fa-twitter"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://www.facebook.com/hotel.wonderland.2024/"><i class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://www.youtube.com/@HotelWonderLand-k4p"><i class="fab fa-youtube"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://www.linkedin.com/in/hotel-wonderland-832463336/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-12">

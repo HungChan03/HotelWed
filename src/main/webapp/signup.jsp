@@ -19,9 +19,10 @@
     </head>
     <body class="login">
         <form class="form_signup" action="signup" method="post">
+         
             <h3>Sign up Here</h3>
 
-            <p class="text-danger alert"> ${messs}</p>
+            
             <label for="fullname">Full name</label>
             <input  name ="fullname" type="text" placeholder="Enter your fullname" id="fullname" required">
 
@@ -31,7 +32,7 @@
             <label for="phone">Number phone</label>
             <input name ="phone" type="text" placeholder="Enter your phone" id="phone" required>
 
-            <label for="email">Email    </label>
+            <label for="email">Email</label>
             <input  name ="email" type="email" placeholder="Enter your email" id="email" required>
 
             <label for="password">Password</label>
@@ -42,7 +43,7 @@
 
             <label for="birthday">Enter Your Birthday(YYYY-MM-DD)</label>
             <input name ="birthday" type="date" placeholder="Your birthday" id="birthday" required>
-
+               <p class="text-danger alert"> ${messs}</p>
 
 
             <button>Sign up</button>

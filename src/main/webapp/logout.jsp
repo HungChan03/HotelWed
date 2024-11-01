@@ -21,7 +21,7 @@
             if ("user".equals(cookie.getName())) {
                
                 cookie.setMaxAge(0);
-                cookie.setPath("/");  
+ 
                 response.addCookie(cookie);  
             }
         }

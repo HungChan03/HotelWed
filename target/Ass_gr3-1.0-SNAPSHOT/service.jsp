@@ -74,11 +74,11 @@
                             </div>
                             <div class="col-lg-5 px-5 text-end">
                                 <div class="d-inline-flex align-items-center py-2">
-                                    <a class="me-3" href=""><i class="fab fa-facebook-f"></i></a>
-                                    <a class="me-3" href=""><i class="fab fa-twitter"></i></a>
-                                    <a class="me-3" href=""><i class="fab fa-linkedin-in"></i></a>
-                                    <a class="me-3" href=""><i class="fab fa-instagram"></i></a>
-                                    <a class="" href=""><i class="fab fa-youtube"></i></a>
+                                     <a class="me-3" href="https://www.facebook.com/hotel.wonderland.2024/" target="_blank"><i class="fab fa-facebook-f"></i></a>
+                                    <a class="me-3" href="https://x.com/NSawayu"><i class="fab fa-twitter" target="_blank"></i></a>
+                                    <a class="me-3"  target="_blank" href="https://www.linkedin.com/in/hotel-wonderland-832463336/"><i class="fab fa-linkedin-in"></i></a>
+                                    <a class="me-3" href="https://www.instagram.com/hote.lwonderland/" target="_blank"><i class="fab fa-instagram"></i></a>
+                                    <a class="" href="https://www.youtube.com/@HotelWonderLand-k4p" target="_blank"><i class="fab fa-youtube"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -104,11 +104,11 @@
                                         </div>
                                     </div>
                                 </div>
-<!--                                <div class="navbar-nav mr-auto py-0">                                 
-                                    <a href="login.jsp" class="nav-item nav-link">Login</a>
-
-                                </div>-->
- <%
+                                <!--                                <div class="navbar-nav mr-auto py-0">                                 
+                                                                    <a href="login.jsp" class="nav-item nav-link">Login</a>
+                                
+                                                                </div>-->
+                                <%
                                     String username = null;
                                     Cookie[] cookies = request.getCookies();  // Correctly declare as Cookie array
 
@@ -219,10 +219,10 @@
                     <div class="row g-4">
                         <c:forEach items="${listS}" var="se">
                             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                                    <img style="height: 70%" src="${se.images}" class="img-fluid mb-3 rounded" alt="Responsive image">
-                                    <h5 class="mb-3 text-center">${se.name}</h5>
-                                    <p class="text-body mb-0 text-center">${se.description}</p>
-                                    <small style="display: flex; margin-top: 10px;" class="justify-content-center start-0 top-100 translate-middle-y text-white rounded py-1 px-3 ms-4">${se.price}VND</small>
+                                <img style="height: 70%" src="${se.images}" class="img-fluid mb-3 rounded" alt="Responsive image">
+                                <h5 class="mb-3 text-center">${se.name}</h5>
+                                <p class="text-body mb-0 text-center">${se.description}</p>
+                                <small style="display: flex; margin-top: 10px;" class="justify-content-center start-0 top-100 translate-middle-y text-white rounded py-1 px-3 ms-4">${se.price}VND</small>
                             </div>
                         </c:forEach>
                     </div>
@@ -283,10 +283,10 @@
                             <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+8496 405 7841</p>
                             <p class="mb-2"><i class="fa fa-envelope me-3"></i>hungnhcce180150@fpt.edu.vn</p>
                             <div class="d-flex pt-2">
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
-                                <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://x.com/NSawayu"><i class="fab fa-twitter"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://www.facebook.com/hotel.wonderland.2024/"><i class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://www.youtube.com/@HotelWonderLand-k4p"><i class="fab fa-youtube"></i></a>
+                                <a target="_blank" class="btn btn-outline-light btn-social" href="https://www.linkedin.com/in/hotel-wonderland-832463336/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                         </div>
                         <div class="col-lg-5 col-md-12">
